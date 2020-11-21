@@ -1,0 +1,13 @@
+C:\Users\banan\Desktop\DecToFrac\DecToFrac\bin\Debug\netcoreapp3.1\DecToFrac.exe
+C:\Users\banan\Desktop\DecToFrac\DecToFrac\bin\Debug\netcoreapp3.1\DecToFrac.deps.json
+C:\Users\banan\Desktop\DecToFrac\DecToFrac\bin\Debug\netcoreapp3.1\DecToFrac.runtimeconfig.json
+C:\Users\banan\Desktop\DecToFrac\DecToFrac\bin\Debug\netcoreapp3.1\DecToFrac.runtimeconfig.dev.json
+C:\Users\banan\Desktop\DecToFrac\DecToFrac\bin\Debug\netcoreapp3.1\DecToFrac.dll
+C:\Users\banan\Desktop\DecToFrac\DecToFrac\bin\Debug\netcoreapp3.1\DecToFrac.pdb
+C:\Users\banan\Desktop\DecToFrac\DecToFrac\obj\Debug\netcoreapp3.1\DecToFrac.csprojAssemblyReference.cache
+C:\Users\banan\Desktop\DecToFrac\DecToFrac\obj\Debug\netcoreapp3.1\DecToFrac.AssemblyInfoInputs.cache
+C:\Users\banan\Desktop\DecToFrac\DecToFrac\obj\Debug\netcoreapp3.1\DecToFrac.AssemblyInfo.cs
+C:\Users\banan\Desktop\DecToFrac\DecToFrac\obj\Debug\netcoreapp3.1\DecToFrac.csproj.CoreCompileInputs.cache
+C:\Users\banan\Desktop\DecToFrac\DecToFrac\obj\Debug\netcoreapp3.1\DecToFrac.dll
+C:\Users\banan\Desktop\DecToFrac\DecToFrac\obj\Debug\netcoreapp3.1\DecToFrac.pdb
+C:\Users\banan\Desktop\DecToFrac\DecToFrac\obj\Debug\netcoreapp3.1\DecToFrac.genruntimeconfig.cache
